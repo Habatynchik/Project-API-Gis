@@ -1,14 +1,17 @@
 {
-  "name": "project-api",
+  "name": "project-api-2386",
   "version": "1.0.0",
-  "description": "",
+  "description": "ababa",
   "main": "index.js",
+  "engines": {
+    "node": "13.11.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
     "build": "parcel build --public-url . index.html"
   },
-  "author": "",
+  "author": "habatynchik",
   "license": "ISC",
   "dependencies": {
     "node-nmea": "^2.0.0",
