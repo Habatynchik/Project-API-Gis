@@ -19,29 +19,32 @@
 <link rel="stylesheet" href="/Project%20API.e31bb0bc.css"></head>
 
 <body>
-    <div id="map" class="map"></div>
-    <div id="info" style="display: none;"></div>
-    <button id="push"> press</button>
 
-    <p><input size="200px" type="text" id="nmea" name="nmea" value="$GPRMC,145323.673,A,5022.873,N,03029.773,E,,,210320,000.0,W*7A"> Input NMEA<Br></Br></p>
-    <label for="track">
-        track position
-        <input id="track" type="checkbox">
-    </label>
 
-    <p>
-        position accuracy : <code id="accuracy"></code>&nbsp;&nbsp;
-        altitude : <code id="altitude"></code>&nbsp;&nbsp;
-        altitude accuracy : <code id="altitudeAccuracy"></code>&nbsp;&nbsp;
-        heading : <code id="heading"></code>&nbsp;&nbsp;
-        speed : <code id="speed"></code>
-    </p>
+<p><input size="200px" type="text" id="nmea" name="nmea" value="$GPRMC,145323.673,A,5022.873,N,03029.773,E,,,210320,000.0,W*7A"> Input NMEA<Br></Br></p>
+<button id="push"> press</button>
+<p>
+    json data : <code id="json"></code>&nbsp;&nbsp;
 
-    <p>
-        json data : <code id="json"></code>&nbsp;&nbsp;
-        
-    </p>
-    <script src="/Project API.e31bb0bc.js"></script>
+</p>
+<div id="map" class="map" style="visibility: collapse"></div>
+<div id="info" style="display: none;"></div>
+
+<label for="track" style="visibility: collapse">
+    track position
+    <input id="track" type="checkbox">
+</label>
+
+<p style="visibility: collapse">
+    position accuracy : <code id="accuracy"></code>&nbsp;&nbsp;
+    altitude : <code id="altitude"></code>&nbsp;&nbsp;
+    altitude accuracy : <code id="altitudeAccuracy"></code>&nbsp;&nbsp;
+    heading : <code id="heading"></code>&nbsp;&nbsp;
+    speed : <code id="speed"></code>
+</p>
+
+
+<script src="/Project API.e31bb0bc.js"></script>
 </body>
 
 </html>
