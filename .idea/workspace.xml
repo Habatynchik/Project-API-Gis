@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22e1ad04-92b8-40ee-82bd-e617c19911e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/indexcopy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/1a/768b8bdde177e7bff357083a878ddc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/1a/768b8bdde177e7bff357083a878ddc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/80/64a3c3ba03579dd2ba4701a3f17439.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/80/64a3c3ba03579dd2ba4701a3f17439.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Project API.e31bb0bc.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Project API.e31bb0bc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/Project API.e31bb0bc.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Project API.e31bb0bc.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="22e1ad04-92b8-40ee-82bd-e617c19911e8" name="Default Changelist" comment="ver 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +39,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589485529348</updated>
-      <workItem from="1589485530624" duration="415000" />
+      <workItem from="1589485530624" duration="687000" />
     </task>
+    <task id="LOCAL-00001" summary="ver 2">
+      <created>1589486017463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589486017463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ver 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 2" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="571" y="119" key="CommitChangelistDialog2" timestamp="1589486238448">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="571" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1589486238448" />
     <state x="769" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589485995607">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
